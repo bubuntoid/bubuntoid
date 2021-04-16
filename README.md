@@ -6,11 +6,14 @@
 - 📫 How to reach me: **i dont know**
 - ⚡ Fun fact: **gods was talking on C# langunage**
 
+
+
+
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&theme=gotham">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&theme=prussian ">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height = 195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014" />
+  <img align="center" height = 195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&theme=prussian " />
   </a>
 </p>
