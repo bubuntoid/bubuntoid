@@ -13,7 +13,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width=400 height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&theme=gotham">
   </a>
-  <a width=20 href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400 height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=400 height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&layout=compact" />
   </a>
 </p>
