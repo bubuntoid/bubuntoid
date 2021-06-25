@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning **nothing**
 - 💬 Ask me about **nothing**
-- 📫 How to reach me: **i dont know**
+- 📫 How to reach me: [email](mailto:bubuntoid@gmail.com), [telegram](https://t.me/bubuntoid)
 - ⚡ Fun fact: **gods was talking on C# langunage**
 
 
