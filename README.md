@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm bubuntoid.</h2>
 
-- 🔭 I’m currently working on [**YOVPS**](https://github.com/bubuntoid/YOVPS)
+- 🔭 I’m currently working on [**Ethereal**](https://github.com/bubuntoid/Ethereal)
 - 🌱 I’m currently learning **nothing**
 - 💬 Ask me about **nothing**
 - 📫 How to reach me: [email](mailto:bubuntoid@gmail.com), [telegram](https://t.me/bubuntoid)
@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=EasyDialog&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/bubuntoid/YOVPS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=YOVPS&theme=vue-dark" />
+<a href="https://github.com/bubuntoid/Ethereal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=Ethereal&theme=vue-dark" />
 </a>    
 </p>
