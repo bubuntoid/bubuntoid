@@ -13,11 +13,5 @@
 <a href="https://github.com/bubuntoid/bubuntoid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&hide=html&langs_count=3&theme=onedark " />
 </a>
-  
-<a href="https://github.com/bubuntoid/EasyDialog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=EasyDialog&theme=onedark " />
-</a>
-<a href="https://github.com/bubuntoid/Ethereal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=Ethereal&theme=onedark " />
-</a>    
+    
 </p>
