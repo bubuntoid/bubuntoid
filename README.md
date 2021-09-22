@@ -8,16 +8,16 @@
 
 <p align="center">
 <a href="https://github.com/bubuntoid/bubuntoid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="bubuntoid's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&line_height=27&count_private=true&theme=onedark " alt="bubuntoid's GitHub Stats" />
 </a>
 <a href="https://github.com/bubuntoid/bubuntoid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&hide=html&langs_count=3&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&hide=html&langs_count=3&theme=onedark " />
 </a>
   
 <a href="https://github.com/bubuntoid/EasyDialog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=EasyDialog&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=EasyDialog&theme=onedark " />
 </a>
 <a href="https://github.com/bubuntoid/Ethereal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=Ethereal&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bubuntoid&repo=Ethereal&theme=onedark " />
 </a>    
 </p>
