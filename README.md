@@ -15,7 +15,3 @@
 </a>
     
 </p>
-
-<p align="center">
-  <img src="dnegs.png" />
-</p>
