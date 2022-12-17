@@ -7,6 +7,6 @@
 - ⚡ Fun fact: **gods was talking on Java langunage**
 
 <p align="center">
-<img align="center" style="text-decoration: none"src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&line_height=27&count_private=true&theme=default" alt="bubuntoid's GitHub Stats" />
-<img align="center" style="text-decoration: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&hide=html&langs_count=3&theme=default" />
+<img align="center" style="text-decoration: none"src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="bubuntoid's GitHub Stats" />
+<img align="center" style="text-decoration: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntoid&hide=html&langs_count=3&theme=transparent" />
 </p>
