@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm bubuntoid.</h2>
 
-- 🔭 I’m currently working on [**Soundger**](https://github.com/Scamburger)
+- 🔭 I’m currently working on [**Kaya**](https://github.com/bubuntoid/Kaya)
 - 🌱 I’m currently learning **nothing**
 - 💬 Ask me about **nothing**
 - 📫 How to reach me: [email](mailto:bubuntoid@gmail.com), [telegram](https://t.me/bubuntoid)
