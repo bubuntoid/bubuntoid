@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **nothing**
 - 💬 Ask me about **nothing**
 - 📫 How to reach me: [email](mailto:bubuntoid@gmail.com), [telegram](https://t.me/bubuntoid)
-- ⚡ Fun fact: **gods was talking on Java langunage**
+- ⚡ Fun fact: **gods were talking on Java language**
 
 <p align="center">
 <img align="center" style="text-decoration: none"src="https://github-readme-stats.vercel.app/api?username=bubuntoid&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="bubuntoid's GitHub Stats" />
